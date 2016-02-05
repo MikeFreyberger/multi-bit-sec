@@ -23,4 +23,6 @@ Total Distortion is 0.550000
  
  [ 0.07        5          4          3          0.05]]
 
- This indicates the inout sources with the corresponding probabilities (column 0) will be encoded by one of three corespnding encodings, indicated by columns 1-3. Column 4 indicates the amount of distortion intoduced by the source symbol. 
+ This indicates the inout sources with the corresponding probabilities (column 0) will be encoded by one of three corespnding encodings, indicated by columns 1-3. Column 4 indicates the amount of distortion intoduced by the source symbol.
+ 
+ Send any question to mdf3@princeton.edu.
